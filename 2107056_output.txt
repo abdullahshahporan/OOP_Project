@@ -1,0 +1,130 @@
+Welcome to the online mobile banking management system
+1. Add member
+2. Money transfer
+3. Show balance
+4. Remove member
+0. Exit
+Please enter a choice: 1
+1. Add user
+2. Add agent
+0. Exit
+Enter a key : 1
+Number : 01759223522
+Name : shah
+ID : 12
+Password : 1258
+Deposit : 35000
+1. Add member
+2. Money transfer
+3. Show balance
+4. Remove member
+0. Exit
+Please enter a choice: 1
+1. Add user
+2. Add agent
+0. Exit
+Enter a key : 2
+Number : 01712126803
+Name : poran
+ID : 25
+Password : 1269
+Deposit : 20000
+1. Add member
+2. Money transfer
+3. Show balance
+4. Remove member
+0. Exit
+Please enter a choice: 2
+1. Agent to Agent
+2. Agent to User
+3. User to Agent
+4. User to User
+Enter a key: 2
+Sender number: 01712126803
+Receiver number: 01759223522
+Enter amount: 7000
+Successfully 7000 tk transferred from 01712126803 to 01759223522
+1. Add member
+2. Money transfer
+3. Show balance
+4. Remove member
+0. Exit
+Please enter a choice: 3
+1. User balance
+2. Agent balance
+Please enter a key : 1
+Enter account number : 01759223522
+Your account balance is 42000
+1. Add member
+2. Money transfer
+3. Show balance
+4. Remove member
+0. Exit
+Please enter a choice: 3
+1. User balance
+2. Agent balance
+Please enter a key : 2
+Enter account number : 01712126803
+Your account balance is 13000
+1. Add member
+2. Money transfer
+3. Show balance
+4. Remove member
+0. Exit
+Please enter a choice: 4
+1. Remove user
+2. Remove agent
+Enter a key : 1
+Enter number : 01759223522
+Member removed successfully!
+1. Add member
+2. Money transfer
+3. Show balance
+4. Remove member
+0. Exit
+Please enter a choice: 4
+1. Remove user
+2. Remove agent
+Enter a key : 2
+Enter number : 01712126803
+Member removed successfully!
+1. Add member
+2. Money transfer
+3. Show balance
+4. Remove member
+0. Exit
+Please enter a choice: 3
+1. User balance
+2. Agent balance
+Please enter a key : 1
+Enter account number : 017592253522
+No registered account with this number
+1. Add member
+2. Money transfer
+3. Show balance
+4. Remove member
+0. Exit
+Please enter a choice: 3
+1. User balance
+2. Agent balance
+Please enter a key : 2
+Enter account number : 01712126803
+No registered account with this number
+1. Add member
+2. Money transfer
+3. Show balance
+4. Remove member
+0. Exit
+Please enter a choice: 4
+1. Remove user
+2. Remove agent
+Enter a key : 1
+Enter number : 01759223522
+No registered account with this number
+1. Add member
+2. Money transfer
+3. Show balance
+4. Remove member
+0. Exit
+Please enter a choice: 0
+Thank you
